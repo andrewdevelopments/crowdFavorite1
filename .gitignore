@@ -1,0 +1,7 @@
+
+# dependencies
+/vendor
+.idea
+
+# misc
+.DS_Store
