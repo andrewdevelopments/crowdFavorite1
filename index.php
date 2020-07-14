@@ -3,4 +3,4 @@
 // Add autoload
 require_once realpath( 'vendor/autoload.php' );
 
-$init = new \App\Src\CrowdFavorite();
+$init = new \App\CrowdFavorite();
